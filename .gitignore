@@ -1,0 +1,9 @@
+.idea/
+.obsidian/
+.vscode/
+
+.DS_Store
+*.bak
+*.swp
+*.tmp
+
